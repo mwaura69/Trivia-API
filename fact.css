@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://images.pexels.com/photos/1809644/pexels-photo-1809644.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size: cover;
+    background-repeat: "no-repeat";
+}
+#heading {
+    font-size: 40px;
+    align-items: center;
+    color: white;
+}
+#header-div {
+    display: flex;
+    justify-content: space-evenly;
+}
+#my-button {
+  font-size: 16px;
+  margin-top: 4rem;
+  padding: 10px;
+}
+#in-container {
+    display: inline-block;
+    align-items: center;
+    margin-top: 2rem;
+    margin-right: 20px;
+    background-color: yellow;
+}
+#demo {
+    margin-right: 20px;
+}
+
+
+
+
